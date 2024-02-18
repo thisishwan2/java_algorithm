@@ -1,6 +1,7 @@
+package 수학;
+
 import java.io.*;
 import java.math.BigInteger;
-import java.util.StringTokenizer;
 
 // 본 문제의 핵심은 BigInteger 타입을 알고 활용할 수 있냐를 확인하는 문제이다.
 // String, Integer, Long 형의 경우 111111111111111111 과 같이 큰 수에 대해 표현이 어렵기 때문에 BigInteger를 이용한다
@@ -52,7 +53,7 @@ public class BOJ_4375 {
         bw.flush(); // flush를 해서 출력을 해준다.
     }
     public static void main(String[] args) throws Exception {
-//        new BOJ_4375().solution_1();
+//        new 수학.BOJ_4375().solution_1();
         new BOJ_4375().solution_2();
     }
 }
