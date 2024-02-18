@@ -1,4 +1,4 @@
-package 수학;
+package BOJ.수학;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

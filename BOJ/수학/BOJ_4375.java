@@ -1,4 +1,4 @@
-package 수학;
+package BOJ.수학;
 
 import java.io.*;
 import java.math.BigInteger;
@@ -53,7 +53,7 @@ public class BOJ_4375 {
         bw.flush(); // flush를 해서 출력을 해준다.
     }
     public static void main(String[] args) throws Exception {
-//        new 수학.BOJ_4375().solution_1();
+//        new BOJ.수학.BOJ_4375().solution_1();
         new BOJ_4375().solution_2();
     }
 }
