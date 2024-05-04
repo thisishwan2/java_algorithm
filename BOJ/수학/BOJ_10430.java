@@ -11,7 +11,7 @@ public class BOJ_10430 {
         /*
         String str = bf.readLine();
         StringTokenizer st = new StringTokenizer(str, " ");
-        int a = Integer.valueOf(st.nextToken());
+        int test = Integer.valueOf(st.nextToken());
         int b = Integer.valueOf(st.nextToken());
         int c = Integer.valueOf(st.nextToken());
         */
