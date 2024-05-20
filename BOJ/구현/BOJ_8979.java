@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.구현;
 
 import java.io.BufferedReader;
 import java.io.IOException;
