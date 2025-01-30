@@ -36,7 +36,7 @@ public class 조이스틱 {
 
             // 이제 돌아가는게 더 빠른지 그대로 직진하는게 더 빠른지를 체크한다.
             move = Math.min(move, i*2+n-index);
-            move = Math.min(move, i+(n-index)*2);
+            move = Math.min(move, i+(n-index)*2); // 처음부터 뒤로갔다오는 경우
         }
 
         return answer+move;
