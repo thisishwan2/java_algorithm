@@ -1,5 +1,5 @@
-package programmers.고득점kit.그래프탐색;
-import  java.util.*;
+package programmers.고득점kit.깊이_너비_우선탐색;
+
 public class 타겟_넘버 {
 
     public static void main(String[] args) {
