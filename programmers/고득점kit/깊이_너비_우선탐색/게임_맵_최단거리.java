@@ -1,4 +1,4 @@
-package programmers.고득점kit.그래프탐색;
+package programmers.고득점kit.깊이_너비_우선탐색;
 import java.util.*;
 public class 게임_맵_최단거리 {
     int[] dx = new int[]{-1,1,0,0};
